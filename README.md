@@ -306,7 +306,7 @@ Make sure the assets are correctly registered in `pubspec.yaml` if required.
 
 ## 👨‍💻 Author
 
-**Youssef Mohamed**
+**Youssef Gado**
 
 Flutter Developer
 
